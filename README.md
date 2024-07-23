@@ -1,1 +1,1 @@
-https://varpe-portfolio07.netlify.app
+https://varpe-portfolio07.netlify.app/
